@@ -10,5 +10,8 @@ public class calse1 {
 		System.out.println("Soy la clase 1");
 
 	}
+	public static void metodo1_clase2(){
+			
+	}
 
 }
