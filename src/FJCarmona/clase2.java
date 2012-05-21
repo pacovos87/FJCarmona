@@ -9,5 +9,8 @@ public class clase2 {
 	
 		System.out.println("Soy la clase 2");
 	}
-
+	
+	public static void metodo2_clase2(){
+		
+	}
 }
